@@ -41,3 +41,8 @@ A dynamic 2D Endless Runner browser game built using HTML5 Canvas, Vanilla JavaS
 1. Clone this repository:
    ```bash
    git clone [https://github.com/thalha01/endless-runner-game.git](https://github.com/thalha01/endless-runner-game.git)
+
+
+
+   ## 🌐 Live Demo
+🔗 **[Play the Game Live Here](https://your-game-name.netlify.app)**
